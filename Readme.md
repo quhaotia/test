@@ -1,5 +1,8 @@
 ﻿# test
 # test
+
+根目录下的app.js为更新后的文件，由于操作不当导致无法删除，敬请谅解
+
 程序主要由react、solidity和javascript编写。其中solidity编译器版本为0.8.9.
 使用方法：
 1、打开ipfs监听和ganache链接私网（我的ipfs为桌面客户端，只需要打开不需要输入命令）
